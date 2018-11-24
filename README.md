@@ -1,4 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## What is the point of this?
+This app was built to retrieve some basic information from the GitHub user API and allow you to build a team.
+
+This app is also mobile responsive using CSS grid.
+
+## Deployed anywhere?
+
+Heck yuh! https://react-github-team.herokuapp.com/
 
 ## Available Scripts
 
