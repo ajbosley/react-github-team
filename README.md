@@ -4,6 +4,10 @@ This app was built to retrieve some basic information from the GitHub user API a
 
 This app is also mobile responsive using CSS grid.
 
+## Deployed anywhere?
+
+Heck yuh! https://react-github-team.herokuapp.com/
+
 ## Available Scripts
 
 In the project directory, you can run:
